@@ -17,11 +17,6 @@
 - NumPy, Pandas, Scikit-learn
 - Git, Linux
 
-## 📌 Featured Projects
-- 🧠 Sepsis Prediction using Transformers
-- 🖼 Image Classification with CNNs
-- 📈 Time-series Forecasting (ARIMA, LSTM)
-
 ## 📫 Contact
 - LinkedIn: https://www.linkedin.com/in/m-praveen-kumar-b49122179/
 - Email: a1986273@adelaide.edu.au
