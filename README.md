@@ -1,16 +1,27 @@
-## Hi there 👋
+# Praveen Kumar
 
-<!--
-**praveenkr10/praveenkr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master’s in Artificial Intelligence & Machine Learning  
+🏫 University of Adelaide  
+💻 Software Engineer (Python, ML, DL)  
+📍 Adelaide, Australia  
 
-Here are some ideas to get you started:
+## 🔬 Interests
+- Machine Learning & Deep Learning
+- Computer Vision
+- Healthcare AI
+- Transformers & Time-series
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python, C++
+- PyTorch, TensorFlow
+- NumPy, Pandas, Scikit-learn
+- Git, Linux
+
+## 📌 Featured Projects
+- 🧠 Sepsis Prediction using Transformers
+- 🖼 Image Classification with CNNs
+- 📈 Time-series Forecasting (ARIMA, LSTM)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/m-praveen-kumar-b49122179/
+- Email: a1986273@adelaide.edu.au
